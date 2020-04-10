@@ -160,6 +160,25 @@ There are better patterns to follow and there is also a dedicated library for th
 **flutter_platform_widgets** helps to create platform specific UI without having to duplicate the code.  
 You'll be using classes like: `PlatformScaffold`, `PlatformAppBar`, `PlatformText` instead of `Scaffold`, `AppBar`, etc.  
 
+***
+# Flutter (Tutorial #2)
+Even though flutter lies in the HYBRID APP DEVELOPMENT category, it is a better alternative than react native, Cordova/Ionic and Xamarin.  
+
+The main issues with them is that they need a BRIDGE between your code and the mobile OS and thus that hampers the performance of the app which is well below the performance of the native app.  
+
+Using 3rd party libraries and components with apps developed using these can be very problematic.  
+
+## WHY FLUTTER?
+Flutter compiles to native. Therefore it provides excellent perforamance. Types of compilation - JIT, AOT  
+Fast Development framework  
+Single code-base for iOS and Android  
+No bridges between your code base and the OS of the mobile  
+
+Flutter is developed using a strongly typed language called "Dart".
+
+
+
+
 
 
 
